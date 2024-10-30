@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 256GB",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "price": 1239200.00,
+      "description": "Apple iPhone 15 with 256GB storage",
+      "image": "https://example.com/images/apple-iphone-15.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 14 256GB",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "price": 825000.00,
+      "description": "Apple iPhone 14 with 256GB storage",
+      "image": "https://example.com/images/apple-iphone-14.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple Macbook Pro M1 Chip 14’ 16GB 512GB",
+      "brand": "Apple",
+      "category": "Laptop",
+      "price": 1730000.00,
+      "description": "Apple MacBook Pro with M1 Chip, 16GB RAM, and 512GB SSD",
+      "image": "https://example.com/images/apple-macbook-pro-m1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPad Air 2022 64GB WiFi + Cellular",
+      "brand": "Apple",
+      "category": "Tablet",
+      "price": 620000.00,
+      "description": "Apple iPad Air 2022 with 64GB, WiFi, and Cellular",
+      "image": "https://example.com/images/apple-ipad-air-2022.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple AirPods Max",
+      "brand": "Apple",
+      "category": "Accessories",
+      "price": 690000.00,
+      "description": "Apple AirPods Max over-ear headphones",
+      "image": "https://example.com/images/apple-airpods-max.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S23 Ultra 5G 12GB 256GB",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "price": 1730000.00,
+      "description": "Samsung Galaxy S23 Ultra, 5G, 12GB RAM, 256GB storage",
+      "image": "https://example.com/images/samsung-galaxy-s23-ultra.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A25 5G 6GB 128GB",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "price": 335300.00,
+      "description": "Samsung Galaxy A25, 5G, 6GB RAM, 128GB storage",
+      "image": "https://example.com/images/samsung-galaxy-a25.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Tab S9 Ultra 128GB",
+      "brand": "Samsung",
+      "category": "Tablet",
+      "price": 1747024.00,
+      "description": "Samsung Galaxy Tab S9 Ultra, 128GB storage",
+      "image": "https://example.com/images/samsung-galaxy-tab-s9-ultra.jpg"
+    },
+    {
+      "id": 9,
+      "name": "PlayStation 5 Console + A set of Pad",
+      "brand": "Sony",
+      "category": "Gaming Console",
+      "price": 650000.00,
+      "description": "PlayStation 5 Console with a set of pad",
+      "image": "https://example.com/images/playstation-5.jpg"
+    },
+    {
+      "id": 10,
+      "name": "PS5 Call of Duty Modern Warfare",
+      "brand": "Sony",
+      "category": "Game",
+      "price": 62000.00,
+      "description": "PS5 Call of Duty Modern Warfare game",
+      "image": "https://example.com/images/ps5-call-of-duty.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lenovo IdeaPad Flex 5 2 in 1",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "price": 650000.00,
+      "description": "Lenovo IdeaPad Flex 5 2-in-1 convertible laptop",
+      "image": "https://example.com/images/lenovo-ideapad-flex-5.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Apple AirPods Max - Sky Blue",
+      "brand": "Apple",
+      "category": "Accessories",
+      "price": 900000.00,
+      "description": "Apple AirPods Max in Sky Blue color",
+      "image": "https://example.com/images/apple-airpods-max-sky-blue.jpg"
+    },
+    {
+      "id": 13,
+      "name": "JBL Clip 4 Portable Bluetooth Speaker",
+      "brand": "JBL",
+      "category": "Speaker",
+      "price": 35000.00,
+      "description": "JBL Clip 4 Portable Bluetooth Speaker",
+      "image": "https://example.com/images/jbl-clip-4.jpg"
+    },
+    {
+      "id": 14,
+      "name": "JBL Charge 4 Bluetooth Speaker",
+      "brand": "JBL",
+      "category": "Speaker",
+      "price": 200000.00,
+      "description": "JBL Charge 4 Bluetooth Speaker",
+      "image": "https://example.com/images/jbl-charge-4.jpg"
+    }
+  ],
+  "cart":[
+
+  ]
+}
