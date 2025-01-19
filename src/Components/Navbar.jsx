@@ -33,7 +33,7 @@ const Navbar = () => {
       </header>
       <nav>
         <div className="logo">
-          <img src="images3e0269d05af853b79cb6e518c2a5c.png" alt="" />
+          <img src="/images/fb03e0269d05af853b79cb6e518c2a5c.png" alt="" />
         </div>
 
         <div className="drop-down" ref={navRef}>
