@@ -53,36 +53,34 @@ const Categories = () => {
         </div>
       </div>
 
-      
-        <div className="grid">
-            <div className="category-card">
-                <div>
-                    <h5>Level up your gaming experience with</h5>
-                    <p className="label">
-                        PlayStore 5 Console
-                    </p>
-                    <Link to={'/products'}><button>Buy Now</button></Link>
+      <div className="grid">
+        <div className="category-card">
+          <div>
+            <h5>Level up your gaming experience with</h5>
+            <p className="label">PlayStore 5 Console</p>
+            <Link to={"/products"}>
+              <button>Buy Now</button>
+            </Link>
 
-                    <div className="image">
-                    <img src="src/assets/ps5 coonsole.png" alt="" />
-                    </div>
-                </div>
+            <div className="image">
+              <img src="images/ps5 coonsole.png" alt="" />
             </div>
-            <div className="category-card">
-                <div>
-                    <h5>Elevate your Photography and Videography skill with</h5>
-                    <p className="label">
-                        Canon EOS 5D
-                    </p>
-                    <Link to={'/products'}><button>Buy Now</button></Link>
-
-                    <div className="image">
-                    <img src="src/assets/cannon.png" alt="" className="camera"/>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
-      
+        <div className="category-card">
+          <div>
+            <h5>Elevate your Photography and Videography skill with</h5>
+            <p className="label">Canon EOS 5D</p>
+            <Link to={"/products"}>
+              <button>Buy Now</button>
+            </Link>
+
+            <div className="image">
+              <img src="images/cannon.png" alt="" className="camera" />
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   );
 };

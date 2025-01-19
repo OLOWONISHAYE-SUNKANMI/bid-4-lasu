@@ -7,13 +7,13 @@ const CartCard = () => {
     <div className="cart-card">
       <div className="card-grid">
         <div className="image">
-          <img src="src/assets/jbl clip 4.png" alt="JBL Clip 4" />
+          <img src="images/jbl clip 4.png" alt="JBL Clip 4" />
         </div>
         <div className="details">
           <div className="icon-data">
             <div>
-            <p>Samsung Galaxy S23</p>
-            <p>5G 256 GB</p>
+              <p>Samsung Galaxy S23</p>
+              <p>5G 256 GB</p>
             </div>
 
             <div>

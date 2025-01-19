@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Link } from 'react-router-dom'
 
 
@@ -12,7 +12,7 @@ const BigDIscount = () => {
         <Link to={'/products'}><button>Shop Now</button></Link>
         
         <div className="image">
-        <img src="src/assets/google pixel.png" alt=""/>            
+        <img src="images/google pixel.png" alt=""/>            
         </div>
 
     </div>
