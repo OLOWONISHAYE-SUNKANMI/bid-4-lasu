@@ -11,7 +11,7 @@ const Card = () => {
 
           <p className="price">$1,730,000.00</p>
 
-          <button>Add to Cart</button>
+          <button>SET BID</button>
         </div>
       </div>
     </>

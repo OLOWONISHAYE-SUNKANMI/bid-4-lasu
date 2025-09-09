@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer-grid">
         <div className="contact">
           <h2>Contact Us</h2>
-          <img src="images/logo.png" alt="" />
+          <img src="https://res.cloudinary.com/depeqzb6z/image/upload/v1757378556/IB-removebg-preview_e934kh.png" alt="" />
           <div className="info">
             <span>
               {" "}
@@ -19,8 +19,8 @@ const Footer = () => {
             <p>
               {" "}
               <FaLocationDot className="icon" />
-              No 1, Otigba Street, <br />
-              Computer Village, Ikeja, Lagos State.
+              Lagos State University <br />
+              Ojo, Lagos State.
             </p>
           </div>
           <div className="info">
@@ -42,7 +42,7 @@ const Footer = () => {
             <p>
               {" "}
               <SiGmail className="icon" />
-              info@officialraygadgets.com.ng.
+              info@bid4lasu.com.ng
             </p>
           </div>
         </div>
