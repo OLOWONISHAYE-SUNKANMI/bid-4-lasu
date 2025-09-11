@@ -32,9 +32,9 @@ const Navbar = () => {
         </div>
       </header>
       <nav>
-        <div className="logo">
+        <div className="nav_logo">
           <img src="https://res.cloudinary.com/depeqzb6z/image/upload/v1757378556/bid4lasu_logo_kef9vz.png" alt=""
-            style={{ width: "300px", }}
+            // style={{ width: "300px", }}
           />
         </div>
 

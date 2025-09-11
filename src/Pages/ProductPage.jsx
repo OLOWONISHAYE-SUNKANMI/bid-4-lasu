@@ -7,7 +7,6 @@ const ProductPage = () => {
     <div className="productPage">
       <Route />
       <AllProducts />
-
     </div>
   );
 };

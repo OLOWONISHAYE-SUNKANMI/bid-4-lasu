@@ -53,7 +53,7 @@ nav {
 
   img {
     box-sizing: border-box;
-    height: 5rem;
+    height: 1rem;
   }
   .drop-down {
     display: flex;
@@ -1515,4 +1515,11 @@ nav {
       }
     }
   }
+}
+
+.nav_logo{
+ img{
+  height: 3rem;
+  width: 14rem;
+ }
 }
